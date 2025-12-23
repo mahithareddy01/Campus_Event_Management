@@ -1,0 +1,38 @@
+.card{
+    background-color: rgb(229, 250, 181);
+    text-align: center;
+    width:300px;
+    padding: 20px;
+    border-radius: 12px;
+}
+button{
+    color:black;
+    background-color: rgb(206, 206, 241);
+    padding:8px;
+    border-radius:13px;
+}
+button:hover {
+  background: #87affa;
+}
+body{
+    background-color: peachpuff;
+}
+.cards{
+display: flex;
+justify-content: center;
+gap:10px;
+}
+.card2{
+    background-color: rgb(240, 169, 104);
+    text-align: center;
+    width:300px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.card3{
+    background-color: rgb(245, 200, 157);
+    text-align: center;
+    width:300px;
+    padding: 20px;
+    border-radius: 12px;
+}
